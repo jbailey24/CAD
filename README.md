@@ -12,5 +12,7 @@
 
 ## Intro to Assemblies
 ### Part 1
+![SolidWorks Rendering](https://lh6.googleusercontent.com/IepVOHi2LtZjkoD-8KJTS9vuDiZ5v1o5FNMZA_H4IPfG_3AD1bwD39156rpviGaHg_j_SnHKHwKtG_c0Ns6GIGm5v-T8stKYVi27n9rQGtnWl6DE5zQ-NAqWGKd-o4yQLxryh5z0)
+
 ### Part 2
 ### Assembly
