@@ -5,7 +5,7 @@
 ![SolidWorks Rendering](http://www.simpleimageresizer.com/_uploads/photos/4396d8ff/Intro_to_Solidworks_photo_50.png)
 
 ## Intro to Lofts
-![SolidWorks Rendering](file:///H:/Engineering/Solidworks/Engineering_2_Work/Not_So_Basic_CAD/Hammer_Lofts/HammerHeadPhotoCropped.pngg)
+![SolidWorks Rendering](https://lh5.googleusercontent.com/3nfvcuqbYcyEgf24aTQTiO298Ov_e3fcIdKIdWpjW3I379o5ZwWFByKu8VuA6hsRrt8sbJzGLb0-qAPeFP_MxkQiJwp_GCqFOBhqgNPvjLg9-JrTDT2tYZe6Cizh2RHFuJ-rSPxF)
 
 ## Intro to Revolves and Sweeps
 
