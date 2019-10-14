@@ -2,7 +2,7 @@
 
 
 ## Intro to SolidWorks
-![SolidWorks Rendering](https://lh5.googleusercontent.com/YENIch4GGVfj1yygdhnzgLHBiJjkSk-0Sd3ZO4g4dSvbjTO0eV7IwK8FXGkUtqQikr3dn5Oitz79xwxvHNkhPLMyitNpT_uGPc67-PmD)
+![SolidWorks Rendering](http://www.simpleimageresizer.com/_uploads/photos/4396d8ff/Intro_to_Solidworks_photo_50.png)
 
 ## Intro to Lofts
 
