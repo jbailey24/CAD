@@ -17,3 +17,4 @@
 ### Part 2
 ![SolidWorks Rendering](https://lh6.googleusercontent.com/V2PRxVqBTU_ZUgjtOF-SQkK4KyRHEiAOJT_abFiulgWULDLgIxezL-DfD-zPjm4titvzwqQXO6lV33HHNTvoIfG8dQZG0YzvRj3jLVt19x8KUWbaxLGZIhOn47-nvlnEX7-_MFrR)
 ### Assembly
+![SolidWorks Rendering](https://lh4.googleusercontent.com/nWtsba6O_HYMCBssNTRICOANxSbK09qsIDKyaGA4HEiuVo5UVecCajXDhO0qwAOzi2_BdQ1dCYynI1xk403OqZBAwa-pOyWWjFApBtoqI3_kc2gJSa8zfKTyTLr2eVw6xNB9PlDN)
