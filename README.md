@@ -9,6 +9,7 @@ In this assignment, I followed the Introduction to SolidWorks tutorial, where I 
 I didn't encounter any difficulties because this was a very basic tutorial, but it was a good refresher after not working with SolidWorks for a while.
 
 
+
 ## Intro to Lofts
 <a href="https://github.com/jbailey24/Not-So-Basic-CAD/blob/master/Hammer_Lofts/HammerHead.SLDPRT">Link to File</a> <br/>
 
@@ -18,6 +19,7 @@ In this assignment, I followed the Lofts SolidWorks tutorial, where I made a hea
 
 This assignment was also fairly straightforward. The only minor dificulty was using the flex tool, but after a few minutes of playing around with it, I was able to understand what to do.
 
+
 ## Intro to Revolves and Sweeps
 <a href="https://github.com/jbailey24/Not-So-Basic-CAD/blob/master/Lamp_Sweeps/Cstick.sldprt">Link to File</a> <br/>
 
@@ -26,6 +28,7 @@ This assignment was also fairly straightforward. The only minor dificulty was us
 In this assignment, I followed the Revolves and Sweeps SolidWorks tutorial, where I made a simple candlestick.
 
 I didn't have any issues with this assignment other then applying textures and color, which was not necessary to complete it.
+
 
 ## Intro to Assemblies
 ### Part 1
