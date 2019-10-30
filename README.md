@@ -2,6 +2,7 @@
 
 
 ## Introduction to SolidWorks
+<a href="https://github.com/jbailey24/Not-So-Basic-CAD/blob/master/Basics/Intro_to_SoildWorks.SLDPRT">Link to File</a> <br/>
 ![SolidWorks Rendering](https://lh6.googleusercontent.com/CbwzETQA5l0t3MZgjxq8EPP3CjqBPCud2LAkbhgsgq-BYQovwZhga_FAwdska8BVqJ4qXXRkPl3D81i0dLfnmzF4BLibkACv6xpZyuJyhJBzmszG_9_IMOrcZqOrU4KU8xb5IpOB)
 
 In this assignment, I followed the Introduction to SolidWorks tutorial, where I made a pressure plate
