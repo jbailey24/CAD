@@ -25,7 +25,7 @@ I didn't encounter any difficulties because this was a very basic tutorial, but 
 
 ## Intro to Assemblies
 ### Part 1
-<a href="https://github.com/jbailey24/Not-So-Basic-CAD/blob/master/Peanut_Shelling/Intro_to_shelling_peanuts.SLDPRT>Link to File</a> <br/>
+<a href="https://github.com/jbailey24/Not-So-Basic-CAD/blob/master/Peanut_Shelling/Intro_to_shelling_peanuts.SLDPRT">Link to File</a> <br/>
 
 ![SolidWorks Rendering](https://lh6.googleusercontent.com/spSUcocgxUCaHgBKU4z7O7crJimPI9MkB5xozAEJepmgZjwferyyOmtR6oGOBoAO5OO0uTpE0IB4mTXi0t9J7I4CUeeSNRrVqVv0Tj9S8TehH9Z1fKMemo9FAifvoDiDOJ6oJMbs)
 
